@@ -93,7 +93,7 @@ h1, h2, h3, .logo {
     height: 100vh;
     display: flex;
     align-items: center;
-    background: url('C:/Users/compr/.gemini/antigravity/brain/6cdc005b-1d00-4350-800d-16c890085073/unitree_hero_futuristic_png_1775523596957.png') center/cover no-repeat;
+    background: url('images/hero.png') center/cover no-repeat;
     position: relative;
 }
 
